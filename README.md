@@ -15,6 +15,7 @@ Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pa
 ## Compétences 🧠
 
 - **Langages de programmation :** C, C++, OCaml, HTML, CSS
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="24">
 - **Frameworks et bibliothèques :** React
 - **Outils de conteneurisation :** Docker
 - **Autre compétences : Unreal Engine 5, Filmora
