@@ -2,16 +2,17 @@
 
 🎓 Étudiant | 💻 Jeune Développeur
 
-## À propos de moi
+## À propos de moi 👨‍💻
 
 Je m'appelle Adam Dijoux, et je suis passionné d'informatique depuis mon enfance. Depuis toujours, la technologie et la programmation m'ont fasciné et j'ai constamment cherché à approfondir mes connaissances dans ce domaine.
 En plus de ma passion pour l'informatique, je suis également un grand amateur d'automobiles, en particulier de la marque Alfa Romeo 🚗 . J'adore découvrir et en apprendre d'avantage sur les voitures, leurs fonctionnement et leurs histoires.
-Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pas seulement un moyen de divertissement, mais aussi une source d'inspiration pour mes projets de développement.
+Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pas seulement un moyen de divertissement, mais aussi une source d'inspiration pour mes projets de développement.🎮👾
 
-## Etudes
-- Etudiant en 2éme années à l'ecole d'Epitech Réunion 
+## Etudes 🎓
+- Etudiant en 2éme années à l'ecole d'Epitech Réunion
+- Licence 1 en informatique à l'université de Poitiers
 
-## Compétences
+## Compétences 🧠
 
 - **Langages de programmation :** C, C++, OCaml, HTML, CSS
 - **Frameworks et bibliothèques :** React
