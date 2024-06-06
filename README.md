@@ -20,9 +20,14 @@ Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pa
   <img src="https://ocaml.org/_/MWIyY2ZmMWM5YzdkYWNmYWI4NGQ0MDBjOGFiZTYxOTg/ocaml_org_social_media.png" width="24">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-_6xsw-5CJo5zcpjBF8rsgCwwLD5Gl1PEQ&s" width="24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="24">
   
 - **Frameworks et bibliothèques :** React
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="24">
 - **Outils de conteneurisation :** Docker
+  <br>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="24">
 - **Autre compétences : Unreal Engine 5, Filmora
 
 ## Projets notables
