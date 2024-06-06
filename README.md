@@ -9,7 +9,7 @@ En plus de ma passion pour l'informatique, je suis également un grand amateur d
 Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pas seulement un moyen de divertissement, mais aussi une source d'inspiration pour mes projets de développement.🎮👾
 
 ## Etudes 🎓
-- Etudiant en 2éme années à l'ecole d'Epitech Réunion
+- Etudiant en 2éme années à l'école d'Epitech Réunion
 - Licence 1 en informatique à l'université de Poitiers
 
 ## Compétences 🧠
@@ -21,18 +21,18 @@ Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pa
 
 ## Projets notables
 
-### [My RPG](https://github.com/Adent974/My_RPG_Adam_Dijoux.git)
+### [My RPG 🕹](https://github.com/Adent974/My_RPG_Adam_Dijoux.git) 
 Un jeu de rôle développé en C à l'aide de la librairie CSFML.
 
-### [42sh](https://github.com/Adent974/42sh_Adam_Dijoux.git)
+### [42sh 💻](https://github.com/Adent974/42sh_Adam_Dijoux.git)
 Un interpreteur de commande en C, semblable à TCSH.
 
-### [A-Maze-D](https://github.com/votre-profil/A-Maze-D)
+### [A-Maze-D 🤖](https://github.com/votre-profil/A-Maze-D)
 Un algorithme de pathfinding permettant à des entités de trouver leur chemin dans des labyrinthes compléxes.
 
 ## Me contacter
 
-- **Email :** [adamraph.dijoux@gmail.com](mailto:adamraph.dijoux@gmail.com)
-- **LinkedIn :** [linkedin.com/in/votre-profil](www.linkedin.com/in/adam-dijoux)
+- **Email : 📨** [adamraph.dijoux@gmail.com](mailto:adamraph.dijoux@gmail.com)
+- **LinkedIn :![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw1JmpzBaRh7koGBuOxi4ZXJ&ust=1717759350592000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLik2rDuxoYDFQAAAAAdAAAAABAE)** [linkedin.com/in/adam-dijoux](www.linkedin.com/in/adam-dijoux)
 
 N'hésitez pas à visiter mes dépôts pour voir mes projets en cours et futurs.
