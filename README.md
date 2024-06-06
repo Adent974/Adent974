@@ -33,6 +33,6 @@ Un algorithme de pathfinding permettant à des entités de trouver leur chemin d
 ## Me contacter
 
 - **Email : 📨** [adamraph.dijoux@gmail.com](mailto:adamraph.dijoux@gmail.com)
-- **LinkedIn :<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="48">** [linkedin.com/in/adam-dijoux](www.linkedin.com/in/adam-dijoux)
+- **LinkedIn :<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="32">** [linkedin.com/in/adam-dijoux](www.linkedin.com/in/adam-dijoux)
 
 N'hésitez pas à visiter mes dépôts pour voir mes projets en cours et futurs.
