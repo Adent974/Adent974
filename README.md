@@ -28,7 +28,10 @@ Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pa
 - **Outils de conteneurisation :** Docker
   <br>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="24">
-- **Autre compétences : Unreal Engine 5, Filmora
+- **Autres compétences : Unreal Engine 5, Filmora
+  <br>
+  <img src="https://e7.pngegg.com/pngimages/214/636/png-clipart-unreal-tournament-unreal-engine-4-fortnite-others-thumbnail.png" width="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png" width="24">
 
 ## Projets notables
 
