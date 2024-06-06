@@ -18,6 +18,9 @@ Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pa
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="24">
   <img src="https://ocaml.org/_/MWIyY2ZmMWM5YzdkYWNmYWI4NGQ0MDBjOGFiZTYxOTg/ocaml_org_social_media.png" width="24">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-_6xsw-5CJo5zcpjBF8rsgCwwLD5Gl1PEQ&s" width="24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="24">
+  
 - **Frameworks et bibliothèques :** React
 - **Outils de conteneurisation :** Docker
 - **Autre compétences : Unreal Engine 5, Filmora
