@@ -41,7 +41,7 @@ Un jeu de rôle développé en C à l'aide de la librairie CSFML.
 ### [42sh 💻](https://github.com/Adent974/42sh_Adam_Dijoux.git)
 Un interpreteur de commande en C, semblable à TCSH.
 
-### [A-Maze-D 🤖](https://github.com/votre-profil/A-Maze-D)
+### [A-Maze-D 🤖](https://github.com/Adent974/A-maze-d_Adam_Dijoux.git)
 Un algorithme de pathfinding permettant à des entités de trouver leur chemin dans des labyrinthes compléxes.
 
 ## Me contacter
