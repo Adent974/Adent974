@@ -9,7 +9,7 @@ En plus de ma passion pour l'informatique, je suis également un grand amateur d
 Enfin, les jeux vidéo occupent une place importante dans ma vie. Ils ne sont pas seulement un moyen de divertissement, mais aussi une source d'inspiration pour mes projets de développement.🎮👾
 
 ## Etudes 🎓
-- Etudiant en 2éme années à l'école d'Epitech Réunion
+- Etudiant en 2ème année à l'école d'Epitech Réunion
 - Licence 1 en informatique à l'université de Poitiers
 
 ## Compétences 🧠
